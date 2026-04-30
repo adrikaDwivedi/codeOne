@@ -1,0 +1,28 @@
+.container{
+    color: white;
+    background-color: black;
+    height:900px;
+    width: 100%;
+    cover: fit;
+    margin:0;
+}
+.logo{
+    width: 100px;
+    height: 80px;
+    margin: 30px;
+}
+.heading{
+    margin: 50px;
+font-size: 30px;
+font-weight: bold;
+font-family: Arial, sans-serif;
+text-align: left;
+line-height: 1.5;
+}
+
+.listItems{
+    margin: 40px;
+    font-size: 16px;
+font-family: Arial, sans-serif;
+line-height: 1.5;
+}
