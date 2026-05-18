@@ -1,10 +1,10 @@
+
+
 export default function Header(){
     return (
-        <header className="header-main">
-            <div className="img-heading">
-                <img src  alt="globe image"/>
+        <header>
+            <img src="../assets/images/globe.png"  alt="globe image"/>
                 <h1>my travel journal. </h1>
-            </div>
         </header>
     )
 }
